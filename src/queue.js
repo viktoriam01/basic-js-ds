@@ -31,6 +31,9 @@ class Queue {
   }
 }
 
+const queue = new Queue();
+
+
 module.exports = {
   Queue
 };
